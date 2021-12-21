@@ -67,6 +67,15 @@ body{
     color: #fff;
 }
 
+.footer--container{
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap : 1rem;
+}
+
 .footer p {
     text-align: center;
 }
